@@ -1,0 +1,29 @@
+# Python-related
+*.py[cod]
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# VSCode settings
+.vscode/
+
+# Environment variables
+.env
+
+# Jupyter Notebook output
+*.nbconvert.ipynb
+*.ipynb_checkpoints
+
+# Miscellaneous
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+*.csv
